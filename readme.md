@@ -1,1 +1,1 @@
-## This is the Git tutorial
+## This repository contains the assignments of ineuron course: Industry-Ready-Projects
