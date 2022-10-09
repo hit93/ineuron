@@ -1,3 +1,0 @@
-python
-fastapi
-unicorn
